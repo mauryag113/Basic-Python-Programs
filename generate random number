@@ -1,0 +1,4 @@
+#to generate a random number@Sachin Maurya
+import random
+num = random.randint(0,10)
+print (num) 
